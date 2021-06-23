@@ -1,0 +1,5 @@
+- siempre intentar mejorar
+- tener metas concretas (cantidad medible y fecha para completar)
+- planear la semana y revisarla
+- que te den feedback, (top 3, peor 3)
+- leer

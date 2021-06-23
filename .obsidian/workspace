@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "db22294962c1444d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd70f228a99c9d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello/Habitos.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5c2291461ec1412a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello/Habitos.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87e96fc5c8a82035",
+    "type": "split",
+    "children": [
+      {
+        "id": "7969e0e3450662e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24936747dcbc4b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebb44874b3996427",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06647daea0a35684",
+    "type": "split",
+    "children": [
+      {
+        "id": "6937674d292aa79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8ecffeb3dfa1c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello/Habitos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fcd70f228a99c9d1",
+  "lastOpenFiles": [
+    "hello/something.md",
+    "Books/Personal MBA/Value Creation.md",
+    "Books/Personal MBA.md",
+    "Books/Shoe Dog.md",
+    "Untitled.md"
+  ]
+}
