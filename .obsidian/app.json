@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "vimMode": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "sensical",
+    "Zettelkasten"
+  ],
+  "newFileLocation": "current"
+}
