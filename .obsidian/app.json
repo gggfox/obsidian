@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": true,
   "showFrontmatter": true,
   "vimMode": true,
@@ -7,7 +7,9 @@
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "sensical",
-    "Zettelkasten"
+    "Zettelkasten",
+    "desynchronization",
+    "factibility"
   ],
   "newFileLocation": "current"
 }

@@ -1,0 +1,45 @@
+# Ceneval Networking
+Created: 2021-10-10 18:48
+- the main function of the MAC sub-layer is to regulate access to the medium
+- switches use the **origin MAC address** to "self learn" the distribution of connected nodes
+- when a connection allows for double way simultaneous data transfer it is called **Full-duplex**   
+- the 2 principal advantages fiber optics have over traditional wire are: immunity to electromagnetic noise and transfer speeds
+- 10BaseT Ethernet networks have a **star** based topology
+- WAN > MAN > LAN > PAN
+- the principal function of a modem is to **change digital signals to analogue and vice versa**
+- the function of multiplexers used in networks is that several communications share a single high speed channel
+- **twisted pair cable** is the most susceptible to electromagnetic interference
+- Manchester codification dosen't generate direct current (DC) and there is no danger of desynchronization with a large chain of 1s or 0s
+- TCP is responsible for process to process communication
+- IP is responsible to machine to machine communication
+- DUAL, EIGRP, EGP, IGRP, RIP and RIPv2 protocols uses **distance vector routing**, Hop count
+- NLSP,OSPF and IS-IS protocols use **link-state routing**
+- Border Gateway Protocol (BGP) and ASBR uses **vector path** algorithm
+- distance vector only receives information from neighbor routers
+- **split horizon** helps in the prevention of loops
+- A host machine can be identified by a IP address, while a program can be identified by a port number
+- Switches and Routers are used in WAN's but Hubs are not
+- firewall block packages based on ports and IP's
+- TELNET protocols helps connect a virtual terminal on a remote machine
+- fiber optic is more secure for network communication than coaxial, wireless and twisted pair cable
+- Huffman code has variable longitude
+- network layer on OSI layer is in charge of choosing the trajectory to reach the host destination
+- Transport layer is in charge of handling segments and locating ports
+- when 2 computers are on different sub-networks their logical directions (origin and destination) cant change
+- Quadrature amplitude modulation **(QAM)** is a combination of Amplitude Shift Keying **(ASK)** and Phase Shift Keying **(PSK)**
+- Bandwidth = max Hz - min Hz
+- amplitude = watts * dB
+- AM stations use FDM (Frequency-Division Multiplexing) multiplexers
+- Hamming is used to identify and correct an error in a single receptor
+- a frame is 1,518 bytes long
+- hubs, cables, connectors and repeaters work on layer 1 of the OSI model 
+- bridges and switches works on layer 2 of the OSI model
+- router works on level 3
+- a VLAN can be generated from a switch
+- IP Types (sub-mask)
+	-  A: 1-126 (255.0.0.0)
+	-   B:128-191 (255.255.0.0)
+	-    C:192-223 (255.255.255.0)
+- DNS gives a IP from a logical name
+## Reference
+1. 

@@ -6,7 +6,12 @@ Created: 2021-09-29 21:40
 - context free grammars
 - LR
 - lexer
-- parser
+- parser,syntax
 - procedure directory and variable table
+- semantic
+- Quadruples
+- polish vector
+- puntos neuralgios: van en nuestros diagramas de sintaxis y ejecutan acciones
+- cambios de flujo
 ## Reference
 1. 
